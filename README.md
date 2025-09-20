@@ -1,5 +1,5 @@
 # conmatrix 🔢👽🏁
-conmatrix : Confusion Matrix # Data Imbalance # Weights & Biases
+conmatrix : Confusion Matrix # Data Imbalance # Evaluation # Weights & Biases
 
 ## Objective
 - Build a confusion matrix
